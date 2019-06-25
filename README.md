@@ -1,2 +1,2 @@
 # guess_number
-Learn basic programming by writing a guess game
+通过尝试编写猜数游戏，来快速学习基础编程知识。学习涉及到：输入、输出、for循环、if语句、异常处理、随机函数等
