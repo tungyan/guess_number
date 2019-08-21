@@ -1,7 +1,7 @@
 import random
 
 def Start_Guess():
-    print("现在系统已在1-100之间随机生成了一个正整数，而你有6次机会猜对它！\n")
+    print("现在系统在1-100之间随机生成了一个正整数，而你有6次机会猜对它！\n")
     ranNumber = random.randint(1,100)
     limit = 0
     active = True
